@@ -5,11 +5,15 @@ all the math was done based on some wikipedia pages for
 the rotation matrix and stuff like that.
 all the rendering was done with ANSI codes and printf.
 
+
+![demo.gif](demo.gif)
+
 # how to run
 ```sh
 gcc -o cube cube.c
 ./cube
 ```
+
 
 
 # live
